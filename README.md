@@ -23,6 +23,7 @@ In this year, I have worked on **two simultaneous projects – Actyvate and Suns
 ## 🔹 Tools I Use
 
 Postman • JIRA • Teamwork • MySQL • GitHub
+
 Basic understanding of JAVA, OOPS, CI/CD
 
 ---
