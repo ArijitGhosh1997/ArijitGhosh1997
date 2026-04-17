@@ -17,7 +17,7 @@ Currently working on the **Actyvate platform**, where I test email, SMS, WhatsAp
 
 ## 🔹 Tools I Use
 Postman • JIRA • Teamwork • MySQL • GitHub  
-Basic understanding of PHP, Node.js, React
+Basic understanding of Java,OOPS,CI/CD
 
 ---
 
