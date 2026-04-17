@@ -1,17 +1,19 @@
-# 👋 Hi, I'm Arijit Ghosh
+👋 Hi, I'm Arijit Ghosh
 
 QA Engineer working on SaaS products, mainly focused on testing real-world features like CRM flows, chatbots, and outbound campaigns.
 
-Currently working on the **Actyvate platform**, where I test email, SMS, WhatsApp campaigns and lead management systems.
+Currently working on the Actyvate platform, where I test email, SMS, WhatsApp campaigns and lead management systems.
 
----
+In this year, I have worked on two simultaneous projects – Actyvate and Sunset Event Management System as a QA, handling API testing, UI testing, and database (SQL) validation.
 
-## 🔹 What I Do
-- Test end-to-end campaign flows (Email / SMS / WhatsApp)
-- Validate chatbot conversations and lead journeys
-- Work on CRM integrations (Zoho, HubSpot)
-- Report bugs with proper steps, logs, and root cause
-- Collaborate with dev team to fix and improve features
+🔹 What I Do
+Test end-to-end campaign flows (Email / SMS / WhatsApp)
+Validate chatbot conversations and lead journeys
+Work on CRM integrations (Zoho, HubSpot)
+Perform API testing and database validation
+Report bugs with proper steps, logs, and root cause
+Create, track, and retest tasks using Teamwork (project management tool)
+Work closely with dev team to fix and improve features
 
 ---
 
