@@ -1,5 +1,6 @@
 👋 Hi, I'm Arijit Ghosh
 
+
 QA Engineer working on SaaS products, mainly focused on testing real-world features like CRM flows, chatbots, and outbound campaigns.
 
 Currently working on the Actyvate platform, where I test email, SMS, WhatsApp campaigns and lead management systems.
