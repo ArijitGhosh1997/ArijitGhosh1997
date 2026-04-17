@@ -68,8 +68,8 @@ Tested things like:
 
 ## 🔹 Connect
 
-* LinkedIn: (add link)
-* Email: (add email)
+* LinkedIn: linkedin.com/in/arijit-ghosh-a35b76207/ 
+* Email: arijitg508@gmail.com
 
 ---
 
