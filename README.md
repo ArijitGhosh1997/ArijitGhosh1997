@@ -4,73 +4,44 @@ QA Engineer working on SaaS-based products, including CRM platforms, chatbot sys
 
 Experienced in end-to-end testing, API validation, UI testing, and SQL validation, with a strong focus on bug reporting and test scenario design.
 
----
+## What I Do
+- Test end-to-end workflows for SaaS products
+- Validate CRM, chatbot, and campaign-related features
+- Perform API testing and database validation
+- Report bugs with clear steps and observations
+- Collaborate with developers to verify fixes
 
-##  What I Do
+## Core Skills
+- Manual Testing
+- API Testing
+- UI Testing
+- SQL Validation
+- Functional Testing
+- Regression Testing
+- Bug Reporting
+- Test Scenario Design
 
-* Test end-to-end campaign flows (Email / SMS / WhatsApp)
-* Validate chatbot conversations and lead journeys
-* Work on CRM integrations (Zoho, HubSpot)
-* Perform API testing and database validation
-* Report bugs with proper steps, logs, and root cause
-* Create, track, and retest tasks using Teamwork (project management tool)
-* Work closely with dev team to fix and improve features
+## Tools I Use
+- Postman
+- JIRA
+- Teamwork
+- MySQL
+- GitHub
 
----
+## Product Types I Work On
+- CRM platforms
+- Chatbot systems
+- Outbound campaign workflows
+- Lead management systems
+- Event management products
 
-##  Tools I Use
+## Currently Learning
+- Automation Testing
+- Cypress
+- Java basics
+- OOP concepts
+- Jenkins
+- CI/CD basics
 
-Postman • JIRA • Teamwork • MySQL • GitHub
-
-Basic understanding of JAVA, OOPS, CI/CD
-
----
-
-##  Projects
-
-###  Actyvate (Current Work)
-
-* Campaign testing (Email / SMS / WhatsApp)
-* Lead & chatbot validation
-* Follow-up and automation testing
-* Worked on **AI prompt improvements** to get better and more accurate chatbot responses
-* Identified and reported multiple real production-level issues
-
----
-
-###  Sunset Event Management System
-
-Worked on testing an event system handling:
-
-* Party, Golf, and Summit events
-* Individual & bulk registrations
-* QR-based entry system
-* Attendee + guest management
-
-Tested things like:
-
-* Registration flows
-* QR generation & scanning
-* Status tracking (Pending → Approved → Checked-in)
-* Edge cases like duplicate or invalid entries
-
----
-
-##  Currently Learning
-
-* Automation testing (Selenium / Cypress)
-* API automation
-* Jenkins basics
-
----
-
-##  Connect
-
-* LinkedIn: linkedin.com/in/arijit-ghosh-a35b76207/
-  
-* Email: arijitg508@gmail.com
-
----
-
- I enjoy finding real issues in real systems and improving overall product quality.
-
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/arijit-ghosh-a35b76207
