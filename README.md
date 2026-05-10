@@ -16,6 +16,15 @@ Experienced in end-to-end testing, API validation, UI testing, and SQL validatio
 
 ---
 
+## Portfolio Highlights
+- AI-driven CRM and lead lifecycle testing
+- RAG-based AI response validation
+- Event management workflow testing
+- API, UI, and database validation
+- Cypress-based automation practice
+
+---
+
 ## Core Skills
 - Manual Testing  
 - API Testing (Postman)  
